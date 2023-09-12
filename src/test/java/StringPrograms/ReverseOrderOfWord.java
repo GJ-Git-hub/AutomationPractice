@@ -3,7 +3,7 @@ package StringPrograms;
 public class ReverseOrderOfWord {
 
     public static void main(String args[]) {
-        String str = "My name is jayant Kale";
+        String str = "My name is Gauri Jawalekar";
         String reverce = "";
 
         String temp[] = str.split(" ");
@@ -21,7 +21,7 @@ public class ReverseOrderOfWord {
 }
 
 /*
-The Out Put with if condition will be  -Kale jayant is name My
-and without If it would be -  Kale jayant is name My
+The Out Put with if condition will be  -Jawalekar gauri is name My
+and without If it would be -  Jawalekar gauri is name My
 The difference is first space only
 */

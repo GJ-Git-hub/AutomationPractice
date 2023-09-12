@@ -1,4 +1,4 @@
-package NaveenPractiseSolution;
+package javaPractiseSolution;
 
 /*
 A positive number is called armstrong number if it is equal to the sum of cubes of its digits

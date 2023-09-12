@@ -1,4 +1,4 @@
-package NaveenPractiseSolution;
+package javaPractiseSolution;
 
 import java.util.Scanner;
 /*

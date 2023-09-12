@@ -1,4 +1,4 @@
-package NaveenPractiseSolution;
+package javaPractiseSolution;
 
 public class SecondHighestNumberInArray {
 

@@ -24,7 +24,7 @@ public class AlertProgram {
         Alert alert = driver.switchTo().alert();
         alert.getText();
         alert.dismiss();
-        alert.sendKeys("jayant");
+        alert.sendKeys("gauri");
         alert.accept();
         Thread.sleep(2000);
         alert.accept();

@@ -60,7 +60,7 @@ public class HashMapExampleInJava {
     public HashMap<String, String> loginCredesials() {
         HashMap<String, String> userMap = new HashMap<String, String>();
         userMap.put("valid", "username:password");
-        userMap.put("Invalid", "jaynatkal:Kale");
+        userMap.put("Invalid", "Gauri:Jawalekar");
         return userMap;
     }
 
